@@ -31,7 +31,7 @@ Runs unit tests specified in `./__tests__`.
 npm test
 ```
 # Project Overview
-For a full experience it is best to visit our deployed website at [Upscale Printing Solutions.](https://upscale-printing-solutions.vercel.app)
+For a full experience it is best to visit our deployed website at [Upscale Printing Solutions.](https://upscaleprintingsolutions.johnjoyo.dev)
 
 ## Tech Stack
 ### Frontend
